@@ -57,6 +57,7 @@
               this.xxianshi = !this.xxianshi
             }
             console.log(this.xxianshi)
+            console.log(this.xxianshi)
           }
 		}
 	}
